@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to my first TomcatServerProject</h1>
+    <h1>Welcome to my first TomcatServerProject with pollSCM</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
